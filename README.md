@@ -7,6 +7,7 @@ Why We Created INLIBER: A Media Platform for Clarity in a Noisy World In a world
 Welcome to **INLIBER**, a global knowledge platform created to empower people through clarity, critical thinking, and actionable insight.
 
 ---
+<p>Bizning <a href="https://inliber.com/ai-news" rel="dofollow">AI yangiliklari</a> bo‘limimizda sun’iy intellekt olamidagi eng so‘nggi tahlillarni o‘qing.</p>
 
 ## 🌍 Why INLIBER?
 
@@ -16,7 +17,7 @@ We live in an era of information overload — where news feeds refresh every sec
 - Verified knowledge
 - Practical advice
 
-Our goal is simple: **help people understand the [world]([[https://inliber.com/ai-news](https://www.inliber.com)](https://www.inliber.com/en/category/world-news)) more clearly and live more meaningfully**.
+Our goal is simple: **help people understand the world more clearly and live more meaningfully**.
 
 ---
 
