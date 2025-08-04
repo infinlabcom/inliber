@@ -1,13 +1,13 @@
 # inliber
-Why We Created INLIBER: A Media Platform for Clarity in a Noisy World In a world where noise often drowns out truth, INLIBER was born with a simple yet powerful mission: to help people understand the world more clearly, think more critically, and live more meaningfully. We believe that knowing more means living better 
+Why We Created INLIBER: A Media Platform for Clarity in a Noisy <a href="https://www.inliber.com/en/category/world-news" rel="dofollow">World</a> In a world where noise often drowns out truth, INLIBER was born with a simple yet powerful mission: to help people understand the world more clearly, think more critically, and live more meaningfully. We believe that knowing more means living better 
 # INLIBER — A Media Platform for Clarity in a Noisy World
 
 > “Knowing more means living better.”
 
-Welcome to **INLIBER**, a global knowledge platform created to empower people through clarity, critical thinking, and actionable insight.
+Welcome to **<a href="https://inliber.com/en" rel="dofollow">INLIBER</a>**, a global knowledge platform created to empower people through clarity, critical thinking, and actionable insight.
 
 ---
-<p>Bizning <a href="https://inliber.com/ai-news" rel="dofollow">AI yangiliklari</a> bo‘limimizda sun’iy intellekt olamidagi eng so‘nggi tahlillarni o‘qing.</p>
+
 
 ## 🌍 Why INLIBER?
 
